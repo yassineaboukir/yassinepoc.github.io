@@ -1,1 +1,1 @@
-console.log('This is a silent PoC by @yassineaboukir');
+alert('PoC by @yassineaboukir');
